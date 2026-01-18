@@ -18,7 +18,7 @@ const experiences = [
   {
     company: 'Connect X',
     role: 'Data Entry Operator',
-    period: 'Aug 2025 – Oct 2025',
+    period: 'Aug 2025 – Nov 2025',
     location: 'Remote',
     type: 'Contract',
     current: false,
