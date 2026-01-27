@@ -21,7 +21,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: 'Location',
-    value: 'Karachi, Pakistan',
+    value: 'Islamabad, Pakistan',
     href: null,
   },
 ];
