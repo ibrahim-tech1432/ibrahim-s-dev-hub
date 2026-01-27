@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
             <span>Made with</span>
             <Heart size={14} className="text-primary fill-primary" />
-            <span>in Pakistan</span>
+            <span>in Islamabad</span>
           </div>
         </div>
       </div>
