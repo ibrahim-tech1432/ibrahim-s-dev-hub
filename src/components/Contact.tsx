@@ -157,7 +157,7 @@ const Contact = () => {
                   id="name"
                   name="name"
                   type="text"
-                  placeholder="John Doe"
+                  placeholder="Your name"
                   value={formData.name}
                   onChange={handleChange}
                   required
@@ -172,7 +172,7 @@ const Contact = () => {
                   id="email"
                   name="email"
                   type="email"
-                  placeholder="john@example.com"
+                  placeholder="Your email address"
                   value={formData.email}
                   onChange={handleChange}
                   required
