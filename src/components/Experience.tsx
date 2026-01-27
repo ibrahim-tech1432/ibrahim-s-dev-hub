@@ -5,7 +5,7 @@ const experiences = [
     company: 'OctaLoop Technology',
     role: 'Mobile Development Intern',
     period: 'Sep 2025 – Present',
-    location: 'Remote',
+    location: 'Onsite',
     type: 'Internship',
     current: true,
     responsibilities: [
@@ -19,7 +19,7 @@ const experiences = [
     company: 'Connect X',
     role: 'Data Entry Operator',
     period: 'Aug 2025 – Nov2025',
-    location: 'Remote',
+    location: 'Onsite',
     type: 'Contract',
     current: false,
     responsibilities: [
