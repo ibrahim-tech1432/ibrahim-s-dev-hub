@@ -10,15 +10,15 @@ import {
 } from 'lucide-react';
 
 const frontEndSkills = [
-  { name: 'HTML', level: 95, icon: FileCode },
-  { name: 'CSS', level: 90, icon: Palette },
-  { name: 'JavaScript', level: 85, icon: Code2 },
-  { name: 'React.js', level: 80, icon: Layers },
+  { name: 'HTML', level: 80, icon: FileCode },
+  { name: 'CSS', level: 70, icon: Palette },
+  { name: 'JavaScript', level: 50, icon: Code2 },
+  { name: 'React.js', level: 50, icon: Layers },
   { name: 'Angular', level: 40, icon: Code2, note: 'Basic' },
 ];
 
 const mobileSkills = [
-  { name: 'React Native', level: 75, icon: Smartphone },
+  { name: 'React Native', level: 50, icon: Smartphone },
 ];
 
 const additionalSkills = [

@@ -12,12 +12,7 @@ const contactInfo = [
     value: 'baadshahibu143@gmail.com',
     href: 'mailto:baadshahibu143@gmail.com',
   },
-  {
-    icon: Phone,
-    label: 'Phone',
-    value: '0316-5056239',
-    href: 'tel:+923165056239',
-  },
+  
   {
     icon: MapPin,
     label: 'Location',

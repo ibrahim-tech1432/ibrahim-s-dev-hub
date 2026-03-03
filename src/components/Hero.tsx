@@ -99,7 +99,7 @@ const Hero = () => {
                 <img
                   src={profilePhoto}
                   alt="Muhammad Ibrahim - Front-End Developer"
-                  className="w-full h-full object-cover rotate-45"
+                  className="w-full h-full object-cover "
                 />
               </div>
               {/* Decorative Elements */}

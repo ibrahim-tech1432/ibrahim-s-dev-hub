@@ -4,7 +4,7 @@ const experiences = [
   {
     company: 'OctaLoop Technology',
     role: 'Mobile Development Intern',
-    period: 'Sep 2025 – Present',
+    period: 'Sep 2025 – Feb 2026',
     location: 'Onsite',
     type: 'Internship',
     current: true,

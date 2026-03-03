@@ -85,7 +85,7 @@ const About = () => {
                   <div className="space-y-3">
                     <div>
                       <p className="font-medium">Mobile Development Intern</p>
-                      <p className="text-muted-foreground text-sm">OctaLoop Technology • 2025 - Present</p>
+                      <p className="text-muted-foreground text-sm">OctaLoop Technology • 2025 - Feb 2026</p>
                     </div>
                     <div>
                       <p className="font-medium">Data Entry Operator</p>
@@ -99,15 +99,15 @@ const About = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-4">
               <div className="text-center p-4 bg-card rounded-lg border border-border">
-                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">2+</p>
+                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">1+</p>
                 <p className="text-sm text-muted-foreground">Years Learning</p>
               </div>
               <div className="text-center p-4 bg-card rounded-lg border border-border">
-                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">5+</p>
+                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">3+</p>
                 <p className="text-sm text-muted-foreground">Technologies</p>
               </div>
               <div className="text-center p-4 bg-card rounded-lg border border-border">
-                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">100%</p>
+                <p className="text-2xl md:text-3xl font-display font-bold gradient-text">80%</p>
                 <p className="text-sm text-muted-foreground">Dedication</p>
               </div>
             </div>
