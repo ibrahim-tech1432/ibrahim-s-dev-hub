@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Mail, Phone, Linkedin, Github, Send, MapPin } from 'lucide-react';
+import { Mail, Linkedin, Send, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -25,12 +25,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com',
-  },
-  {
-    icon: Github,
-    label: 'GitHub',
-    href: 'https://github.com',
+    href: 'https://www.linkedin.com/in/muhammad-ibrahim-4a855838b/',
   },
 ];
 
